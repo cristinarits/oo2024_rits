@@ -34,3 +34,5 @@ Ajakava:
 Eksam: tulete oma suvalise koodilõiguga (võib olla JavaScriptis, PHPs), mis võiks kuuluda suveprojekti sisse.
 
 Jaagup Kippar, palub selgitust koodilõigu osas ja ütleb, et tee 3 muudatust.
+
+https://oop-kt.web.app/?spring0705
