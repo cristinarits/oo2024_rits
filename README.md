@@ -36,3 +36,13 @@ Eksam: tulete oma suvalise koodilõiguga (võib olla JavaScriptis, PHPs), mis v�
 Jaagup Kippar, palub selgitust koodilõigu osas ja ütleb, et tee 3 muudatust.
 
 https://oop-kt.web.app/?spring0705
+
+Seminar:
+
+Google Sheets: https://docs.google.com/spreadsheets/d/14GwJWf2H3V66MPxmt6kP1oVFdr2RkMYsLM9wKlVZpkA/edit?usp=sharing
+
+Ettekanne (kokkuvõte) teema osas vähemalt 10 slaidi.
+
+Grupitöö 2-3 inimest grupis (võib ka üksi teha).
+
+Mida saaks paremini teha? Kodutööd, loengu, kontrolltöö. Kas saaks teemasid juurde võtta (läheb raskemaks?)
